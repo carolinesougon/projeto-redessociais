@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(94, 94, 94);
+    background-image: url(../imagens/fundo-madeira.jpg);
+    background-position: center center;
+    background-attachment: fixed;
+}
